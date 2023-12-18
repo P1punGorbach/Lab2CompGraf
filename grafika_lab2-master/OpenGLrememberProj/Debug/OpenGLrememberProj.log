@@ -1,0 +1,5 @@
+﻿  Render.cpp
+C:\Users\alexs\Downloads\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alexs\Downloads\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\alexs\Downloads\grafika_lab2-master\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,49): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  OpenGLrememberProj.vcxproj -> C:\Users\alexs\Downloads\grafika_lab2-master\grafika_lab2-master\Debug\OpenGLrememberProj.exe
